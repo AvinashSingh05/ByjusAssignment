@@ -40,7 +40,6 @@
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             tools:listitem="@layout/item_poster" />
 
-
         <androidx.core.widget.ContentLoadingProgressBar
             android:layout_width="45dp"
             android:layout_height="45dp"

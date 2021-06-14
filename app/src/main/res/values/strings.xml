@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">HEADLINES</string>
+    <string name="app_title">HEADLINES</string>
+    <string name="app_name">Byjus</string>
 </resources>
