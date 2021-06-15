@@ -37,6 +37,8 @@ class NewsDetailActivity : BindingActivity<ActivityNewsDetailBinding>(R.layout.a
         }
     }
 
+
+
     override fun onClick(v: View?) {
         when(v?.id){
             R.id.backpress ->{
